@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/FTP-calculator/static/css/main.ebf2057d.css",
-    "main.js": "/FTP-calculator/static/js/main.7fcfa9b7.js",
+    "main.js": "/FTP-calculator/static/js/main.12a28e56.js",
     "static/media/FTP-Logo.png": "/FTP-calculator/static/media/FTP-Logo.e2ef65d9ca4c8b1e1934.png",
     "static/media/banner.jpg": "/FTP-calculator/static/media/banner.ee7663bb3b27328cd2b8.jpg",
+    "static/media/logo.png": "/FTP-calculator/static/media/logo.ccf7844a5fb1c4d51f90.png",
     "index.html": "/FTP-calculator/index.html",
     "main.ebf2057d.css.map": "/FTP-calculator/static/css/main.ebf2057d.css.map",
-    "main.7fcfa9b7.js.map": "/FTP-calculator/static/js/main.7fcfa9b7.js.map"
+    "main.12a28e56.js.map": "/FTP-calculator/static/js/main.12a28e56.js.map"
   },
   "entrypoints": [
     "static/css/main.ebf2057d.css",
-    "static/js/main.7fcfa9b7.js"
+    "static/js/main.12a28e56.js"
   ]
 }
