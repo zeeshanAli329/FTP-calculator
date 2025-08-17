@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ftp/static/css/main.7b14aeb8.css",
-    "main.js": "/ftp/static/js/main.fb843ffd.js",
-    "static/media/FTP-Logo.png": "/ftp/static/media/FTP-Logo.e2ef65d9ca4c8b1e1934.png",
-    "static/media/banner.jpg": "/ftp/static/media/banner.ee7663bb3b27328cd2b8.jpg",
-    "index.html": "/ftp/index.html",
-    "main.7b14aeb8.css.map": "/ftp/static/css/main.7b14aeb8.css.map",
-    "main.fb843ffd.js.map": "/ftp/static/js/main.fb843ffd.js.map"
+    "main.css": "/FTP-calculator/static/css/main.ebf2057d.css",
+    "main.js": "/FTP-calculator/static/js/main.7fcfa9b7.js",
+    "static/media/FTP-Logo.png": "/FTP-calculator/static/media/FTP-Logo.e2ef65d9ca4c8b1e1934.png",
+    "static/media/banner.jpg": "/FTP-calculator/static/media/banner.ee7663bb3b27328cd2b8.jpg",
+    "index.html": "/FTP-calculator/index.html",
+    "main.ebf2057d.css.map": "/FTP-calculator/static/css/main.ebf2057d.css.map",
+    "main.7fcfa9b7.js.map": "/FTP-calculator/static/js/main.7fcfa9b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b14aeb8.css",
-    "static/js/main.fb843ffd.js"
+    "static/css/main.ebf2057d.css",
+    "static/js/main.7fcfa9b7.js"
   ]
 }
