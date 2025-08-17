@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import banner from './images/banner.jpg';
 import banner2 from './images/FTP-Logo.png';
 import banner3 from './images/images.jpeg';
+import logo from './images/logo.png';
+
 
 
 function App() {
@@ -32,7 +34,7 @@ function App() {
       <div className="heading-section">
 
         <h1 className="logo-heading">
-          <img src="/images/logo.png" className="heading-logo-img" alt="Cycle Logo" />
+          <img src={logo} className="heading-logo-img" alt="malik" />
         </h1>
         <h1 className="cycle-mov">🚴</h1>
       </div>
@@ -176,18 +178,6 @@ function App() {
         </div>
 
       </div>
-
-
-
-
-
-
-
-
-
-
-
-
       <div className="footer">
         <p className="footer-text">© 2025 FTP Calculator. All rights reserved.</p>
         <img src={banner2} alt='logo' className='logo' /></div>
